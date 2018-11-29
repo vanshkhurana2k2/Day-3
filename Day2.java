@@ -3,5 +3,6 @@ public class Day2{
 		System.out.println("Sasha");
 		System.out.println("Vansh");
 		System.out.println("I am error");
+		System.out.println("This is not a drill");
 	}
 }
